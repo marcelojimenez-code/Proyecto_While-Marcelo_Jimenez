@@ -413,8 +413,8 @@ p a {
   .map-responsive iframe {
     left: 0;
     top: 0;
-    height: 100%;
-    width: 100%;
+    height: 450px;
+    width: 400px;
     position: absolute;
   }
 }
